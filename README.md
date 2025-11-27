@@ -4,19 +4,19 @@ This project is a privacy-preserving Chronic Kidney Disease (CKD) prediction sys
 
 🚀 Features
 
-Federated Learning (FedAvg & FedProx)
+-Federated Learning (FedAvg & FedProx)
 
-Synthetic multi-hospital dataset + CSV upload
+-Synthetic multi-hospital dataset + CSV upload
 
-Differential Privacy 
+-Differential Privacy 
 
-Centralized models: Logistic Regression, Random Forest
+-Centralized models: Logistic Regression, Random Forest
 
-SHAP explainability (summary & sample-level)
+-SHAP explainability (summary & sample-level)
 
-Gemini AI explanation for clinical insights
+-Gemini AI explanation for clinical insights
 
-Model comparison: Accuracy, Recall, F1, ROC-AUC, Confusion Matrix
+-Model comparison: Accuracy, Recall, F1, ROC-AUC, Confusion Matrix
 
 Streamlit dashboard for interaction
 
