@@ -8,7 +8,7 @@ Federated Learning (FedAvg & FedProx)
 
 Synthetic multi-hospital dataset + CSV upload
 
-Differential Privacy (optional)
+Differential Privacy 
 
 Centralized models: Logistic Regression, Random Forest
 
